@@ -1,1 +1,1 @@
-doc4.txt
+doc4 abc def ghi
