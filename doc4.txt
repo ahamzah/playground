@@ -1,1 +1,1 @@
-doc4.txt testing testing testing abc def ghi
+doc4.txt abc def ghi testing testing testing
